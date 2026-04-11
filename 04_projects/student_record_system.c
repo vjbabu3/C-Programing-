@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
 #define MAX 100
-
 struct Student {
     int roll;
     char name[50];
